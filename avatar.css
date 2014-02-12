@@ -42,22 +42,27 @@ SVG Presentation Attributes:
     fill: #FFFFFF;
 }
 
-.eye {
+.eye { 
+    fill:red;
 }
 
 .arm {
+    fill:green;
 }
 
 .shoe {
+    fill:black;
 }
 
 .left {
+    
 }
 
 .right {
 }
 
 #head {
+    fill:green;
 
 }
 
@@ -68,18 +73,23 @@ SVG Presentation Attributes:
 }
 
 #neck {
+    fill:green;
 }
 
 #shirt {
+    fill:black;
 }
 
 #cape {
+    fill:red;
 }
 
 #mouth {
+    fill:red;
 }
 
 #pants {
+    fill:black;
 }
 
 #left-arm {
