@@ -1,5 +1,18 @@
+html { height: 100%; }
 body{font-family: 'Akronim', cursive;}
 h1{text-transform:capitalize; text-align:center;}
 div{text-align:center;}
 div#nolink{text-align:left; margin-left: 350px; margin-top:400px}
 div#no{ margin-top;11px;}
+
+
+body#tree{
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: 50% 50%;
+    height: 100%;
+    
+    
+    background-image:url(petals.gif);}
+
+
