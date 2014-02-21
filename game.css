@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Akronim);
 html { height: 100%; }
 body{font-family: 'Akronim', cursive;}
 h1{text-transform:capitalize; text-align:center;}
@@ -7,12 +8,18 @@ div#no{ margin-top;11px;}
 
 
 body#tree{
-    background-repeat: no-repeat;
-    background-size: 120%;
-    background-position: 50% 50%;
+    //background-repeat: no-repeat;
+    background-size: cover ;
     height: 100%;
-    
-    
+    width:100%;
+    margin:0;
     background-image:url(petals.gif);}
+.red{color:red;}
+.big{font-size: 200%;}
 
+
+p{text-align: center;
+    font-size: 50px; color:blue;}
+
+    
 
